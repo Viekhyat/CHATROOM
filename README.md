@@ -1,2 +1,2 @@
 # Chat-Room
-this roomm helps to communicate with other users 
+this room helps to communicate with other users 
